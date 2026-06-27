@@ -2,7 +2,8 @@
 
 # Hi there! We are the Elisha IT Department 👋
 
-Welcome to the official GitHub profile for the **Elisha IT & Systems Team**. We manage, develop, and maintain the digital infrastructure, internal software tools, and tech operations that power our systems.
+<!-- Typing Effect Section -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+the+official+GitHub+profile+for+the+Elisha+IT+%26+Systems+Team.;We+manage%2C+develop%2C+and+maintain+the+digital+infrastructure.;We+build+internal+software+tools+and+power+tech+operations." alt="Typing Effect" />
 
 ---
 
@@ -18,8 +19,21 @@ Here are some of the primary technologies and tools used across our internal pro
 
 ---
 
+### 🚀 What We Do
+* 🌐 **Internal Systems & Dashboards:** Building custom web platforms for data analytics and real-time operations.
+* 📦 **Inventory & Logistics Tools:** Developing smart solutions for tracking goods, supply chains, and warehousing workflows.
+* 🖥️ **Desktop Applications:** Engineering reliable Windows applications for operational productivity.
+* 🔧 **Tech Support & Operations:** Ensuring continuous uptime and smooth internal systems integration.
+
+---
+
 ### 📈 Coding History (Activity Graph)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elisha-IT&theme=tokyonight" alt="Elisha IT Activity Graph" />
+
+---
+
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisha-IT&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
 
