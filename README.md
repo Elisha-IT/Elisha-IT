@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there! We are the Elisha IT Department 👋
 
 Welcome to the official GitHub profile for the **Elisha IT & Systems Team**. We manage, develop, and maintain the digital infrastructure, internal software tools, and tech operations that power our systems.
@@ -8,7 +10,7 @@ Welcome to the official GitHub profile for the **Elisha IT & Systems Team**. We 
 Here are some of the primary technologies and tools used across our internal projects and infrastructure:
 
 | Field | Technologies |
-| :--- | :--- |
+| :---: | :---: |
 | **Web Development** | HTML5, CSS3, JavaScript, React, Node.js, Express, Tailwind CSS |
 | **Desktop Systems** | C#, .NET Framework (Windows Forms Applications) |
 | **Databases** | MongoDB, MySQL, SQL Server |
@@ -25,26 +27,22 @@ Here are some of the primary technologies and tools used across our internal pro
 ---
 
 ### 📈 Coding History (Activity Graph)
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elisha-IT&theme=tokyonight" alt="Elisha IT Activity Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elisha-IT&theme=tokyonight" alt="Elisha IT Activity Graph" />
 
 ---
 
 ### 📊 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisha-IT&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisha-IT&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
 
 ### 📈 Our GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elisha-IT&show_icons=true&theme=tokyonight" alt="Elisha IT GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Elisha-IT&show_icons=true&theme=tokyonight" alt="Elisha IT GitHub Stats" />
 
 ---
 
 ### 📫 Get in Touch
 * 🏢 **Company:** Elisha Clothing (PVT) Ltd
 * 💼 **Department:** Information Technology
+
+</div>
