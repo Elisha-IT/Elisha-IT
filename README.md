@@ -24,14 +24,6 @@ Here are some of the primary technologies and tools used across our internal pro
 
 ---
 
-### 🚀 What We Do
-* 🌐 **Internal Systems & Dashboards:** Building custom web platforms for data analytics and real-time operations.
-* 📦 **Inventory & Logistics Tools:** Developing smart solutions for tracking goods, supply chains, and warehousing workflows.
-* 🖥️ **Desktop Applications:** Engineering reliable Windows applications for operational productivity.
-* 🔧 **Tech Support & Operations:** Ensuring continuous uptime and smooth internal systems integration.
-
----
-
 ### 📈 Coding History (Activity Graph)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elisha-IT&theme=tokyonight&color=10b981" alt="Elisha IT Activity Graph" />
 
