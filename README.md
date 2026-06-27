@@ -29,11 +29,6 @@ Here are some of the primary technologies and tools used across our internal pro
 
 ---
 
-### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisha-IT&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-
----
-
 ### 📈 Our GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Elisha-IT&show_icons=true&theme=tokyonight" alt="Elisha IT GitHub Stats" />
 
