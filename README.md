@@ -8,7 +8,7 @@
 # Hi there! We are the Elisha IT Department 👋
 
 <!-- Green Typing Effect Section -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+the+GitHub+profile+for+the+Elisha+IT+%26+Systems+Team.;We+manage%2C+develop%2C+and+maintain+the+digital+infrastructure.;We+build+internal+software+tools+and+power+tech+operations." alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+the+GitHub+profile+for+the+Elisha+IT+%26+Team.;We+manage%2C+develop%2C+and+maintain+the+digital+infrastructure.;We+build+internal+software+tools+and+power+tech+operations." alt="Typing Effect" />
 
 ---
 
