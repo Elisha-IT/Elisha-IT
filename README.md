@@ -24,6 +24,20 @@ Here are some of the primary technologies and tools used across our internal pro
 
 ---
 
+### 📈 Coding History (Activity Graph)
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elisha-IT&theme=tokyonight" alt="Elisha IT Activity Graph" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisha-IT&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 📈 Our GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Elisha-IT&show_icons=true&theme=tokyonight" alt="Elisha IT GitHub Stats" />
