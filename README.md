@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Blue Wave Banner Section -->
-<img src="https://kmarkdown-capsule-render.vercel.app/api?type=waving&color=0284c7&height=180&section=header&text=%20" width="100%" alt="Elisha IT Banner" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=180&section=header&text=%20&theme=default&cb=elishait2026" width="100%" alt="Elisha IT Banner" />
 <br />
 
 # Hi there! We are the Elisha IT Department 👋
