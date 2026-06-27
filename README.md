@@ -1,9 +1,14 @@
 <div align="center">
 
+<!-- Green Wave Banner Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=180&section=header&text=%20&theme=default" width="100%" alt="Elisha IT Banner" />
+
+<br />
+
 # Hi there! We are the Elisha IT Department 👋
 
-<!-- Typing Effect Section -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+the+official+GitHub+profile+for+the+Elisha+IT+%26+Systems+Team.;We+manage%2C+develop%2C+and+maintain+the+digital+infrastructure.;We+build+internal+software+tools+and+power+tech+operations." alt="Typing Effect" />
+<!-- Green Typing Effect Section -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+the+official+GitHub+profile+for+the+Elisha+IT+%26+Systems+Team.;We+manage%2C+develop%2C+and+maintain+the+digital+infrastructure.;We+build+internal+software+tools+and+power+tech+operations." alt="Typing Effect" />
 
 ---
 
@@ -28,12 +33,12 @@ Here are some of the primary technologies and tools used across our internal pro
 ---
 
 ### 📈 Coding History (Activity Graph)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elisha-IT&theme=tokyonight" alt="Elisha IT Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elisha-IT&theme=tokyonight&color=10b981" alt="Elisha IT Activity Graph" />
 
 ---
 
 ### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisha-IT&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisha-IT&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 
 ---
 
