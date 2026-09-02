@@ -2,67 +2,78 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&animation=twinkling" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Elisha Clothing IT Department</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Elisha+Clothing;IT+Department;" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=IT+Department;Software+Development;Web+Development;MERN+Stack+Development" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-💼%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="Elishaclothing@gmail.com"><img src="https://img.shields.io/badge/Email-📧%20Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:Elishaclothing@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elisha-IT&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Elisha-IT&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Elisha Clothing (Pvt) Ltd - IT Deparment 
+### Elisha Clothing (Pvt) Ltd — IT Department
+
+I am passionate about software development, web technologies,
+database management, and building practical business solutions.
+
+- 💻 Software & Web Development
+- 🌐 Full-Stack Development
+- 🗄️ Database Management
+- 🔧 IT Support & System Maintenance
+- 📊 Business Application Development
+- 🚀 Learning new technologies
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,csharp,dotnet,python,html,css,tailwind,bootstrap,mysql,git&perline=8" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css&perline=6" />
 </p>
 
-### 📊 Data, Analytics & Design Tools
+### ⚛️ Frameworks & Libraries
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma,unity&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,tailwind,bootstrap&perline=6" />
 </p>
 
----
+### 🗄️ Databases
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" style="padding: 5px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elisha-IT&theme=tokyonight" height="195" alt="Top Languages" />
-      </td>
-      <td align="center" style="padding: 5px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elisha-IT&theme=tokyonight" height="195" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elisha-IT&theme=tokyonight" alt="GitHub Streak" width="65%" />
+### 📊 Data, Analytics & Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma&perline=6" />
 </p>
 
-<br/>
+### 🧰 Tools
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Elisha-IT&theme=tokyonight&no-bg=false&margin-w=15" width="100%" alt="GitHub Trophies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity&perline=6" />
 </p>
 
-<br/>
+
+
+
